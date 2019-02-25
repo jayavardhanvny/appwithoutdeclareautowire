@@ -4,7 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.ComponentScan;
 
-@ComponentScan("com.test.autowired.appwithoutdeclareautowire.resources.*")
+//@ComponentScan("com.test.autowired.appwithoutdeclareautowire.resources.*")
 @SpringBootApplication
 public class AppwithoutdeclareautowireApplication {
 
